@@ -1,6 +1,10 @@
 # flutter_chat_ar
 
-A new Flutter project.
+<img src="https://github.com/rahamanar/flutter_chat_app/blob/main/Screenshots/Screenshot1.png" width="150" height="280">          <img src="https://github.com/rahamanar/flutter_chat_app/blob/main/Screenshots/Screenshot2.png" width="150" height="280">          <img src="https://github.com/rahamanar/flutter_chat_app/blob/main/Screenshots/Screenshot3.png" width="150" height="280"> 
+<br/>
+
+<img src="https://github.com/rahamanar/flutter_chat_app/blob/main/Screenshots/Screenshot4.png" width="150" height="280">          <img src="https://github.com/rahamanar/flutter_chat_app/blob/main/Screenshots/Screenshot5.png" width="150" height="280">           
+<br/>
 
 ## Getting Started
 
